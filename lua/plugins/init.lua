@@ -18,6 +18,7 @@ return {
   {"tpope/vim-commentary"},
   {"tpope/vim-repeat"},
   {"tpope/vim-fugitive"},
+  {"sbdchd/neoformat"},
   {
     "akinsho/bufferline.nvim",
     version = "*",
